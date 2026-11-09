@@ -1,0 +1,6 @@
+{
+  "name": "RTW Notaufnahme",
+  "description": "Rettungsdienst-Navigator: Automatische Standorterfassung, Fahrzeiten, Entfernungen und PKW-Routen zu den nächstgelegenen Notaufnahmen für RTW-Besatzungen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
